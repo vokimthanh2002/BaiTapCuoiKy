@@ -1,7 +1,0 @@
-C:\Users\DELL\source\repos\thanh\thanh\bin\Debug\thanh.exe.config
-C:\Users\DELL\source\repos\thanh\thanh\bin\Debug\thanh.exe
-C:\Users\DELL\source\repos\thanh\thanh\bin\Debug\thanh.pdb
-C:\Users\DELL\source\repos\thanh\thanh\obj\Debug\thanh.csprojAssemblyReference.cache
-C:\Users\DELL\source\repos\thanh\thanh\obj\Debug\thanh.csproj.CoreCompileInputs.cache
-C:\Users\DELL\source\repos\thanh\thanh\obj\Debug\thanh.exe
-C:\Users\DELL\source\repos\thanh\thanh\obj\Debug\thanh.pdb
